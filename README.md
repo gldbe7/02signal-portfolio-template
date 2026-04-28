@@ -1,7 +1,7 @@
-# [Your Name] — Portfolio
+# [Gleb Nikitin] — Portfolio
 
 ## About Me
-Replace this with a short intro about yourself and your business -->
+junior project manager-->
 
 ---
 
